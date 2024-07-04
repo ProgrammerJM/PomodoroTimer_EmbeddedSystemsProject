@@ -1,4 +1,4 @@
-# Main.cpp
+# Smart Pomodoro Timer
 
 This is the main source code file of my Pomodoro Timer (Embedded Systems Project).
 
