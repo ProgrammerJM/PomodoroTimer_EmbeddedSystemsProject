@@ -40,4 +40,4 @@ Make sure to install these libraries before compiling the code.
 
 ## Contributing
 
-Contributions to the Pomodoro Timer Embedded project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on the [GitHub repository](https://github.com/ProgrammerJM/pomodoro-timer-embedded).
+Contributions to the Pomodoro Timer Embedded project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on the [GitHub repository](https://github.com/ProgrammerJM/PomodoroTimer_EmbeddedSystemsProject).
